@@ -2,9 +2,9 @@
 
 *Continuous Nested Language Models via Stochastic Prefix Supervision*
 
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg?style=flat-square)](#citation)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.35769-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2609.35769)
 
-**[Zhilin Guo](https://zhilinguo.github.io/)¹, [Boqiao Zhang](https://boqiaoz00.github.io/boqiao_steven_zhang.github.io/)¹, [Hakan Aktas](https://scholar.google.com/citations?user=RxjN5w4AAAAJ&hl=en)¹, [Kyle Fogarty](https://kyle-fogarty.github.io/)¹, [Nursena Koprucu Aslan](https://www.cst.cam.ac.uk/people/nk618)¹, [Wenzhao Li](https://wenzhao-cam.github.io/)¹, [Canberk Baykal](https://johnberg1.github.io/)¹, [Albert Miao](https://albert-miao.github.io/)¹, [Siyu Hong](https://www.linkedin.com/in/siyuhong/)¹, Yixiao Liu², [Adam Wu](https://www.linkedin.com/in/adamtswu/)¹, [Ashish Kumar Singh](https://www.linkedin.com/in/ashish23ks)³, [Sakar Khattar](https://sakark.wixsite.com/sakark)³, [Chenliang Zhou](https://chenliang-zhou.github.io/)¹, [Weihao Xia](https://www.cst.cam.ac.uk/people/wx258)¹, [Cristina Nader Vasconcelos](https://research.google/people/106908/)³, [Cengiz Oztireli](https://sites.google.com/view/cengiz-oztireli-intro/home)¹ ³**
+**[Zhilin Guo](https://zhilinguo.github.io/)¹, [Boqiao Zhang](https://boqiaoz00.github.io/boqiao_steven_zhang.github.io/)¹, [Hakan Aktas](https://scholar.google.com/citations?user=RxjN5w4AAAAJ&hl=en)¹, [Kyle Fogarty](https://kyle-fogarty.github.io/)¹, [Nursena Koprucu Aslan](https://www.cst.cam.ac.uk/people/nk618)¹, [Wenzhao Li](https://wenzhao-cam.github.io/)¹, [Canberk Baykal](https://johnberg1.github.io/)¹, [Albert Miao](https://albert-miao.github.io/)¹, [Siyu Hong](https://www.linkedin.com/in/siyuhong/)¹, [Yixiao Liu](https://www.linkedin.com/in/yixiao-liu-4abab4348)², [Adam Wu](https://www.linkedin.com/in/adamtswu/)¹, [Ashish Kumar Singh](https://www.linkedin.com/in/ashish23ks)³, [Sakar Khattar](https://sakark.wixsite.com/sakark)³, [Chenliang Zhou](https://chenliang-zhou.github.io/)¹, [Weihao Xia](https://www.cst.cam.ac.uk/people/wx258)¹, [Cristina Nader Vasconcelos](https://research.google/people/106908/)³, [Cengiz Oztireli](https://sites.google.com/view/cengiz-oztireli-intro/home)¹ ³**
 
 ¹ University of Cambridge &nbsp;&nbsp;·&nbsp;&nbsp; ² University of British Columbia &nbsp;&nbsp;·&nbsp;&nbsp; ³ Google
 
@@ -26,8 +26,8 @@ If you use this work, please cite:
 @article{guo2026telescopic,
   title  = {Telescopic Language Models},
   author = {Guo, Zhilin and Zhang, Boqiao and Aktas, Hakan and Fogarty, Kyle and Koprucu Aslan, Nursena and Li, Wenzhao and Baykal, Canberk and Miao, Albert and Hong, Siyu and Liu, Yixiao and Wu, Adam and Singh, Ashish Kumar and Khattar, Sakar and Zhou, Chenliang and Xia, Weihao and Vasconcelos, Cristina Nader and Oztireli, Cengiz},
-  year   = {2026},
-  note   = {arXiv preprint}
+  year    = {2026},
+  journal = {arXiv preprint arXiv:2609.35769}
 }
 ```
 
